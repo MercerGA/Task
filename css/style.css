@@ -371,13 +371,16 @@
 .boxtitle {
     font-size: 18px;
     color: white;
+    font-family: 'Poppins'
 }
 .box1title {
     font-size: 24px;
     color: white;
+    font-family: 'Poppins'
 }
 .box1text {
     color: #B1B1B1;
+    font-family: 'Poppins'
 }
 .socmedia {
     color: white;
@@ -396,6 +399,7 @@
     -o-transition: 0.3s;
     transition: 0.3s;
     -webkit-transition: 0.3s;
+    font-family: 'Poppins'
 }
 .footernavigation:hover {
     color: rgb(54, 125, 255);
@@ -410,13 +414,14 @@
     -o-transition: 0.3s;
     transition: 0.3s;
     -webkit-transition: 0.3s;
+    font-family: 'Poppins'
 }
 .contacttext:hover {
     color: rgb(54, 125, 255);
 }
 .icons {
     color: white;
-    font-size: 17px;
+    font-size: 18px;
     -o-transition: 0.3s;
     transition: 0.3s;
     -webkit-transition: 0.3s;
